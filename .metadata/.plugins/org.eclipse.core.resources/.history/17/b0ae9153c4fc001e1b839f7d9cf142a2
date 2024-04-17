@@ -15,7 +15,7 @@ public class BubbleFrame extends JFrame{
 		btnNewButton.setBounds(69, 49, 117, 29);
 		getContentPane().add(btnNewButton);
 		setVisible(true); // 그림을 그린다.
-		//22
+		
 	}
 
 	public static void main(String[] args) {
